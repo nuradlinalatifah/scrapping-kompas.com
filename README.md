@@ -1,4 +1,4 @@
-# Scraping Kompas
+# Scrapping Kompas.com
 
 Repository ini dibuat untuk tugas scraping dan preprocessing data berita dari website Kompas.
 
