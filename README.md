@@ -20,5 +20,6 @@ Data yang sudah didapat kemudian disimpan dalam bentuk CSV dan dilakukan preproc
 2. Nur Adlina Latifah (25031554068)
 
 Mata Kuliah Pemrosesan Teks
+
 Program Studi Sains Data  
 Universitas Negeri Surabaya
